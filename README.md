@@ -42,6 +42,6 @@
 
 
 ## 📙 guide
-<a href='https://www.youtube.com/watch?v=ntKkVrQqBYY' target='_blank'>
+<a href='https://www.youtube.com/watch?v=ntKkVrQqBYY' target='_blank' rel='noreferrer'>
 video followed for the development of the project
 </a>
