@@ -10,7 +10,8 @@
 * update your profile pic
 * change the theme of the system
 * logout
-* filter users to show only those who are online 
+* filter users to show only those who are online
+* users and messages stored with mongodb
 
 ## ✒️ design
 #### desktop - 1024px
